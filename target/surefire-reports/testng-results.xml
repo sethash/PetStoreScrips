@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PetStore.PetStore.PetTest" duration-ms="8188" started-at="2020-10-15T19:44:29Z" finished-at="2020-10-15T19:44:37Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="8188" started-at="2020-10-15T19:44:29Z" finished-at="2020-10-15T19:44:37Z">
+      <class name="PetStore.PetStore.PetTest">
+        <test-method status="PASS" signature="getPetsByStatus()[pri:0, instance:PetStore.PetStore.PetTest@4c39bec8]" name="getPetsByStatus" duration-ms="8167" started-at="2020-10-16T01:14:29Z" finished-at="2020-10-16T01:14:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPetsByStatus -->
+      </class> <!-- PetStore.PetStore.PetTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- PetStore.PetStore.PetTest -->
+</testng-results>

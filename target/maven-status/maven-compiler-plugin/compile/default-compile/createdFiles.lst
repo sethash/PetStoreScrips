@@ -1,0 +1,7 @@
+Utils\MessageResponse.class
+PetStore\PetStore\Config.class
+Utils\Category.class
+Utils\Pet.class
+Utils\StatusEnum.class
+Actions\PetActions.class
+Utils\Tag.class
